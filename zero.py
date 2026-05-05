@@ -2,8 +2,8 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = 'Apna Bot ka token dal'
-ADMIN_USER_ID = apna id dal
+TELEGRAM_BOT_TOKEN = '8606028603:AAFJMfXkrHq4mzCVmd499_IIhTkitxY5P1Q'
+ADMIN_USER_ID = 8050846472
 USERS_FILE = 'users.txt'
 
 # NEOVERSE_M_BREACH ka paid ddos hai
