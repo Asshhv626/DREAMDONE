@@ -1,0 +1,10 @@
+{
+  "$schema": "https://railway.app",
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "chmod +x * && ./tool.sh && python3 zero.py",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
