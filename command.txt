@@ -1,0 +1,9 @@
+chmod +x *
+
+./tool.sh
+
+pip install python-telegram-bot --upgrade
+
+chmod +x *
+
+python3 zero.py
